@@ -1,0 +1,3 @@
+130,90,36.6,"Warning, patient with id: id1, need help","checkBloodPressure"
+120,80,38.5,"Warning, patient with id: id1, need help","checkTemperature"
+120,80,36.6,,"Сообщений не нужно"
